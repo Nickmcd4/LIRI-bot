@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nickmcd4/LIRI-bot/issues"
   },
-  "homepage": "https://github.com/Nickmcd4/LIRI-bot#readme"
+  "homepage": "https://github.com/Nickmcd4/LIRI-bot#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }
